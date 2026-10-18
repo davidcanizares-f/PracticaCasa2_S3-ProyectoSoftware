@@ -26,4 +26,5 @@ public class MainProyecto {
         System.out.println("Progreso luego de avanzar 80%: " + p.getProgreso() + "%");
         System.out.println("Terminado: " + p.isTerminado());
     }
+
 }
